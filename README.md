@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jofdiazdi/TalleresSimpy)
 
 # TalleresSimpy
-Este repositorio se centrara en recopilar una seria de tutoriales para el uso de la libreria simulpy en la materia simulación de sistemas de la Universidad Nacional de Colombia sede Medellin Facultad de minas
+Este repositorio se centrara en recopilar una seria de tutoriales para el uso de la libreria simpy en la materia simulación de sistemas de la Universidad Nacional de Colombia sede Medellin Facultad de minas
 
 ## Instalacion
  ### Prerequisitos
